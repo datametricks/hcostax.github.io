@@ -3,30 +3,36 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Henrique Costa
-title: Mestre em Economia
+name: Henrique C. Costa
+title: Mestre em Economia | Cientista de Dados - R
 email: henrique@outlook.sg
-website: https://datametricks.github.io/hcostax.github.io/
+#website: https://datametricks.github.io/hcostax.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: hcostax
+# github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: hcostax
+linkedin_username: henriqccosta
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/foto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Olá, meu nome é Henrique e sou Mestre em Economia pela Faculdade de Economia - UFMT e Economista registrado pelo Corecon-MT: 2088. 
+  Apaixonado pela Ciência Econômica, jovem e com muita sede de conhecimento. Tenho "preferencia revelada" por microeconomia e microeconometria.
+  Curioso, entusiasta e estudante de Ciência de Dados, gosto particularmente da linguagem de programação em R e sou usuário de RMarkDown/LaTeX.
+  
+  Tenho um projeto incubado, o Análise Real (Research), atualmente residente em Cuiabá - MT, Brasil.
+  Se quiser entrar em contato, sinta-se à vontade para dizer olá por meio de qualquer um das redes sociais acima.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+ Eu sou mais experiente em: <mark> Fazendo café </mark> e <mark> Comendo pizza </mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +46,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
+ Juntamente com meus interesses em Economia e Ciência de Dados, alguns de meus outros interesses e hobbies são:
+   - Ler Mangás
+   - [Jogar DotA 2](https://steamcommunity.com/id/quonli)
+   - Música classica (A. Vivaldi)
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
