@@ -1,8 +1,8 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Um projeto super incrível
+  link: https://www.instagram.com/datametricks
+  instagram_username: datametricks
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Este é provavelmente um dos melhores projetos já criados, se você não concordar, provavelmente está errado.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Comecei este projeto como uma maneira de aprender o Ciência de Dados e Econometria Aplicada e, desde então, ele se tornou um projeto de negócios completo. Aprendi muitas habilidades com isso e tenho muito orgulho de ter isso em meu portfólio. Se você não tem um projeto tão impressionante quanto esse, aconselho que você faça um.
