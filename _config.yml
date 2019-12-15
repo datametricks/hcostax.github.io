@@ -21,7 +21,7 @@ linkedin_username: henriqccosta
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Sobre Mim
 about_profile_image: images/foto.jpg
 about_content: | # this will include new lines to allow paragraphs
   Olá, meu nome é Henrique e sou Mestre em Economia pela Faculdade de Economia - UFMT e Economista registrado pelo Corecon-MT: 2088. 
@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   Se quiser entrar em contato, sinta-se à vontade para dizer olá por meio de qualquer um das redes sociais acima. 
   
   
-  Eu sou mais experiente em: <mark> Fazendo café </mark> e <mark> Comendo pizza </mark>
+  Eu sou mais experiente em: <mark>Fazer café</mark>  e  <mark>Comer pizza</mark>
 
 # Projects Section
 # projects_title: Projects
