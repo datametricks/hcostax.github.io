@@ -35,13 +35,13 @@ about_content: | # this will include new lines to allow paragraphs
   Eu sou mais experiente em: <mark>Fazer café</mark>  e  <mark>Comer pizza</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projetos
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experiência
 
 # Education Section
-# educaton_title: Education
+educaton_title: Educação
 
 # More Section
 more_title: Um pouco mais sobre mim
